@@ -1,0 +1,20 @@
+[
+ ;; testtable
+
+ {:db/ident :testtable/uuid
+  :db/valueType :db.type/string
+  :db/cardinality :db.cardinality/one
+  :db/fulltext true
+  :db/doc "UUID"}
+
+ {:db/ident :testtable/timestamp
+  :db/valueType :db.type/string
+  :db/cardinality :db.cardinality/one
+  :db/doc "timestamp"}
+
+ {:db/ident :testtable/random_data
+  :db/valueType :db.type/string
+  :db/cardinality :db.cardinality/one
+  :db/doc "Random data"}
+]
+

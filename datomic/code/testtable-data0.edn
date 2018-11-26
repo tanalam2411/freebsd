@@ -1,0 +1,5 @@
+[
+{:testtable/uuid :"6f510f58-b032-4cfd-b256-852880ae96a2", :testtable/timestamp :"Monday, 26-Nov-18 07:53:12 UTC", :testtable/random_data :"col1, data1, col2, data2"}
+{:testtable/uuid :"344845e7-0b42-4c79-b84e-75486c6039fa", :testtable/timestamp :"Tuesday, 26-Nov-18 07:53:12 UTC", :testtable/random_data :"col1, data1, col2, data2"}
+{:testtable/uuid :"bd3b3152-51b6-4514-b7bb-bc3785c296f2", :testtable/timestamp :"Wednesday, 26-Nov-18 07:53:12 UTC", :testtable/random_data :"col1, data1, col2, data2"}
+]
